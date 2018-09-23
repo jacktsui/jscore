@@ -66,6 +66,9 @@ https://github.com/jacktsui/xusqa/raw/master/xusqa.user.js
 - 数学  
 ![image](manual/math1.gif)
 
+- 快速提取
+![image](manual/split1.gif)
+
 
 ### 脚本自动更新
 
