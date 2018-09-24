@@ -69,6 +69,9 @@ https://github.com/jacktsui/xusqa/raw/master/xusqa.user.js
 - 快速提取  
 ![image](manual/split1.gif)
 
+- 公式编辑增强(目前只支持化学方程式)  
+![image](manual/kfe1.gif)
+
 
 ### 脚本自动更新
 
